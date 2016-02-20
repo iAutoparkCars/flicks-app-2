@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A9CA6CBB00EA67793113AEE286B1B8B3E051D8F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9CA6CBB00EA67793113AEE286B1B8B3E051D8F4" : 0,
+    "91E2D68B5B434004B032127E0D6C3101A9E5E1B8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61E45365-4B1A-47BF-8F09-E928D2C05E42",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9CA6CBB00EA67793113AEE286B1B8B3E051D8F4" : "Flicks\/",
+    "91E2D68B5B434004B032127E0D6C3101A9E5E1B8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Flicks",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Flicks.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iAutoparkCars\/flicks-app-2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91E2D68B5B434004B032127E0D6C3101A9E5E1B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iAutoparkCars\/flicks-app-2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9CA6CBB00EA67793113AEE286B1B8B3E051D8F4"
+    }
+  ]
+}
